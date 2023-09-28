@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Python
+C++
+GitHub
+Bash
+amplify android angular angularjs arduino bootstrap c cplusplus css3 dart docker express figma firebase flutter gcp git graphql html5 illustrator java javascript kotlin linux mongodb mysql nextjs nodejs opencv postman python react reactnative redux tailwind tensorflow unity xd
+
+
+
 <!--
 **fahadhussain2/fahadhussain2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

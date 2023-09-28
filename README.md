@@ -38,7 +38,7 @@ I'm a seasoned full-stack web and mobile app developer with over 5 years of expe
 <a href="https://linkedin.com/in/fahadhussain-connect"><img src="https://img.shields.io/badge/-Fahad%20Hussain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://facebook.com/fahad.hussain.90"><img src="https://img.shields.io/badge/-@fahad.hussain.90-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/FahadHussain2"><img src="https://img.shields.io/badge/-@FahadHussain2-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://discordapp.com/users/fahadhussain368"><img src="https://img.shields.io/badge/-@fahadhussain368-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/fahadhussain368"><img src="https://img.shields.io/badge/-@fahadhussain368-1877F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://www.behance.net/fahad-hussain"><img src="https://img.shields.io/badge/-@fahadhussain-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 

@@ -2,6 +2,12 @@
 
 ### 📫 How to reach me
 
+<p align="left" dir="auto">
+<a href="https://twitter.com/FahadHussain2" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/FahadHussain2" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/fahadhussain-connect/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fahadhussain-connect" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://discordapp.com/users/fahadhussain368" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fahadhussain368" height="30" width="40" style="max-width: 100%;"> </a>
+</p>
+
 
 ### 🧰 Languages and Tools
 

@@ -1,5 +1,7 @@
 ### Hi there, I'm <a class="heading-link" href="#hi-there-im-fahad-hussain">Fahad Hussain </a> 👋
 
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
+
 I am a seasoned full stack web & mobile app developer with a demonstrated track record of 6 years in the field of software development. My expertise spans a broad range of skills that facilitate the seamless progression of successful digital projects from their concept to their ultimate implementation.
 
 ### 🛠 &nbsp;Languages and Tools

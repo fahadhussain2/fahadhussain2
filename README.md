@@ -82,9 +82,7 @@ I'm a seasoned full-stack web and mobile app developer with over 5 years of expe
 
 ### Github stats 📊
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fahadhussain2)](https://git.io/streak-stats)
-</div>
 
 | <a href="https://github.com/fahadhussain2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadhussain2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fahad Hussain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhussain2&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

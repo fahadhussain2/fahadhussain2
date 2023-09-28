@@ -12,7 +12,7 @@ I am a seasoned full stack web & mobile app developer with a demonstrated track 
 
 ## Github stats 📊
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/fahadhussain2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadhussain2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fahad Hussain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhussain2&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 

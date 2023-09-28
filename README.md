@@ -17,7 +17,7 @@ I am a seasoned full stack web & mobile app developer with a demonstrated track 
 
 ### 🛠 &nbsp;Languages and Tools
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=dd1b16)&nbsp;
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

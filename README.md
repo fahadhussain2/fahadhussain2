@@ -37,6 +37,7 @@ I am a seasoned full stack web & mobile app developer with a demonstrated track 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![TailwindCSS](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

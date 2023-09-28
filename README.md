@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p dir="auto"><strong><code>Full Stack Developer</code></strong></p>
+
 ### 📫 How to reach me
 
 <p align="left" dir="auto">

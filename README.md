@@ -40,7 +40,7 @@ I'm a seasoned full-stack web and mobile app developer with over 5 years of expe
 
 ### Cloud Services
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
 

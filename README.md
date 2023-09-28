@@ -4,6 +4,8 @@
 
 I'm a seasoned full-stack web and mobile app developer with over 5 years of experience in software development. I specialize in crafting intuitive user experiences on the frontend and building efficient server-side solutions on the backend. I'm also adept at mobile app development and database management. I've played pivotal roles in driving technological endeavors for prominent organizations, leading development teams and shaping visually stunning interfaces. My passion lies in exploring leading-edge technologies such as AI, blockchain, and the metaverse.
 
+🌱 Check out my <a class="heading-link" href="https://www.behance.net/fahad-hussain">Portfolio</a> 
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

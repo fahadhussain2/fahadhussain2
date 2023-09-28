@@ -133,13 +133,8 @@ I am a seasoned full stack web & mobile app developer with a demonstrated track 
 
 ## Github stats 📊
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/fahadhussain2/github-readme-stats"><img alt="fahadhussain2's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=fahadhussain2&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/fahadhussain2/github-readme-stats"><img alt="fahadhussain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadhussain2&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ### 🧰 Languages and Tools

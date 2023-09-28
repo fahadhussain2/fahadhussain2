@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Fahad Hussain](https://fahadhussain2.github.io) 👋
 
-<p dir="auto"><strong><code>Full Stack Developer</code></strong></p>
+I am a seasoned full stack web & mobile app developer with a demonstrated track record of 6 years in the field of software development. My expertise spans a broad range of skills that facilitate the seamless progression of successful digital projects from their concept to their ultimate implementation.
 
 ### 📫 How to reach me
 

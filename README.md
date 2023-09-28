@@ -4,7 +4,7 @@
 
 I am a seasoned full stack web & mobile app developer with a demonstrated track record of 6 years in the field of software development. My expertise spans a broad range of skills that facilitate the seamless progression of successful digital projects from their concept to their ultimate implementation.
 
-### 🛠 &nbsp;Languages and Tools
+## 🛠 Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=dd1b16)&nbsp;

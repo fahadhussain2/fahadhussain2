@@ -1,4 +1,4 @@
-### Hi there, I'm <a class="heading-link" href="#hi-there-im-durgesh-samariya-">Fahad Hussain </a> 👋
+### Hi there, I'm <a class="heading-link" href="#hi-there-im-fahad-hussain">Fahad Hussain </a> 👋
 
 I am a seasoned full stack web & mobile app developer with a demonstrated track record of 6 years in the field of software development. My expertise spans a broad range of skills that facilitate the seamless progression of successful digital projects from their concept to their ultimate implementation.
 

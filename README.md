@@ -4,7 +4,7 @@
 
 I'm a seasoned full-stack web and mobile app developer with over 5 years of experience in software development. I specialize in crafting intuitive user experiences on the frontend and building efficient server-side solutions on the backend. I'm also adept at mobile app development and database management. I've played pivotal roles in driving technological endeavors for prominent organizations, leading development teams and shaping visually stunning interfaces. My passion lies in exploring leading-edge technologies such as AI, blockchain, and the metaverse.
 
-## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=dd1b16)&nbsp;
@@ -32,9 +32,15 @@ I'm a seasoned full-stack web and mobile app developer with over 5 years of expe
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-### 📫 How to reach me
+### 🤝🏻 &nbsp;Connect with Me
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-fahadhussain-connect) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FahadHussain2) [![Discord](https://img.shields.io/badge/Discord-1E90FF?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/fahadhussain368)
+<p align="center">
+<a href="https://linkedin.com/in/fahadhussain-connect"><img src="https://img.shields.io/badge/-Fahad%20Hussain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://facebook.com/fahad.hussain.90"><img src="https://img.shields.io/badge/-@fahad.hussain.90-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/FahadHussain2"><img src="https://img.shields.io/badge/-@FahadHussain2-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://discordapp.com/users/fahadhussain368"><img src="https://img.shields.io/badge/-@fahadhussain368-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://www.behance.net/fahad-hussain"><img src="https://img.shields.io/badge/-@fahad-hussain-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
 
 ## Github stats 📊
